@@ -1,4 +1,4 @@
-# Stroustrup_CPP
+# Learning_CPP
 ### English
 Programming -- Principles and Practice Using C++ Bjarne Stroustrup
 Exercises from Stroustrup's «Programming - Principles and Practice with C++» (Second Edition).
