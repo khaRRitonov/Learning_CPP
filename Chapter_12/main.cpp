@@ -2,6 +2,8 @@
 #include "./Graph_lib/Graph.h"
 #include <Windows.h>
 
+// Выполнение примеров из 12 главы
+
 using namespace Graph_lib;
 
 int main() {
