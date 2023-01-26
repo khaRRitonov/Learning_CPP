@@ -1,6 +1,8 @@
 #include "./Graph_lib/Simple_window.h"
 #include "./Graph_lib/Graph.h"
 
+// Выполнение 11 и 12 упражнений из 12 главы
+
 double sgn(double d)
 {
     if (d > 0) return 1;
